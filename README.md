@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
