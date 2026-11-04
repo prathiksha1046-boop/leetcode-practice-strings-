@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
