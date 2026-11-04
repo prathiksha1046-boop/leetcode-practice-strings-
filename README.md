@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -28,4 +29,8 @@
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1704-determine-if-string-halves-are-alike) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/prathiksha1046-boop/leetcode-practice-strings-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
